@@ -7,6 +7,8 @@
  💪 Todos os dias se aperfeiçoando.<br>
  🔎 À disposição para novas oportunidades. :)
 
+##
+
 <div style="display: flex; align-items: center ;">
   <img  class="Davi_Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=davivsouza&theme=tokyonight&show_icons=true&count_private=true" alt="">
   <img class="Davi_TopLang" height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=davivsouza&layout=compact&theme=tokyonight&langs_count=8" alt="">
