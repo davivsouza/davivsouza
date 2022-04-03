@@ -1,7 +1,7 @@
 <h1 align="center"> Olá! Bem vindo ao meu perfil, eu sou o Davi Vasconcelos👋</h1>
 <div align="center">
 <img  width="500em" heigth="450em" src="https://pa1.narvii.com/7878/582efcbccb8a6880255f3a52df489beca51ab865r1-500-284_hq.gif" alt=""> <br>
-
+</div>
 - 📚 No momento estou apenas estudando. <br>
 - 📜 Experiência com HTML e CSS <br>
 - 💻 Adquirindo conhecimento em Javascript, NodeJs, ReactJs e Typescript.<br>
