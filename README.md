@@ -12,7 +12,7 @@
 <div align="center">
  <a href="https://github.com/davivsouza/">
     <img  class="Davi_Stats" width="400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=davivsouza&theme=tokyonight&show_icons=true&count_private=true" alt="">
-  <img class="Davi_TopLang" width="350em"  height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=davivsouza&layout=compact&theme=tokyonight&langs_count=8" alt="">
+  <img class="Davi_TopLang" width="400em"  height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=davivsouza&layout=compact&theme=tokyonight&langs_count=8" alt="">
  </a>
 
 </div>
