@@ -1,6 +1,6 @@
 <h1 align="center"> Olá! Bem vindo ao meu perfil, eu sou o Davi Vasconcelos👋</h1>
 
-<img style="display:block;" width="400em" heigth="450em" src="https://pa1.narvii.com/7878/582efcbccb8a6880255f3a52df489beca51ab865r1-500-284_hq.gif" alt=""> 
+<img style="display:block;" width="500em" heigth="450em" src="https://pa1.narvii.com/7878/582efcbccb8a6880255f3a52df489beca51ab865r1-500-284_hq.gif" alt=""> 
  📚 No momento estou apenas estudando. <br>
  📜 Experiência com HTML e CSS <br>
  💻 Adquirindo conhecimento em Javascript, NodeJs, ReactJs e Typescript.<br>
@@ -11,7 +11,7 @@
 
 <div align="center">
  <a href="https://github.com/davivsouza/">
-    <img  class="Davi_Stats" width="300em" height="180em" src="https://github-readme-stats.vercel.app/api?username=davivsouza&theme=tokyonight&show_icons=true&count_private=true" alt="">
+    <img  class="Davi_Stats" width="500em" height="180em" src="https://github-readme-stats.vercel.app/api?username=davivsouza&theme=tokyonight&show_icons=true&count_private=true" alt="">
   <img class="Davi_TopLang" width="300em"  height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=davivsouza&layout=compact&theme=tokyonight&langs_count=8" alt="">
  </a>
 
