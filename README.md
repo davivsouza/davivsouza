@@ -9,7 +9,7 @@
 
 ##
 
-<div style="display: inline; align-items: center ;">
+<div align="center">
   <img  class="Davi_Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=davivsouza&theme=tokyonight&show_icons=true&count_private=true" alt="">
   <img class="Davi_TopLang" height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=davivsouza&layout=compact&theme=tokyonight&langs_count=8" alt="">
 </div>
