@@ -4,7 +4,7 @@
 
 📚 No momento estou apenas estudando. <br>
 📜 Experiências em projetos escolares e pessoais com HTML, CSS e JavaScript. <br>
-💻 Adquirindo conhecimento em ReactJs, Typescript e Styled-components.<br>
+💻 Adquirindo conhecimento em ReactJs, Typescript e outras tecnologias.<br>
 💪 Todos os dias se aperfeiçoando<br>
 🔎 À disposição para novas oportunidades. 
   
