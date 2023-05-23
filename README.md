@@ -1,5 +1,3 @@
-<h1 align="center"> Olá! Bem vindo ao meu perfil, eu sou o Davi Vasconcelos👋</h1>
-
 📚 No momento estou apenas estudando. <br>
 📜 Experiências em projetos escolares e pessoais com HTML, CSS e JavaScript. <br>
 💻 Adquirindo conhecimento em ReactJs, Typescript e outras tecnologias.<br>
