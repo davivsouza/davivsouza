@@ -1,6 +1,5 @@
-📜 Experiências em projetos escolares e pessoais com HTML, CSS e JavaScript. <br>
+📜 Experiências em projetos escolares e pessoais com PHP, MySQL, React.js e etc.<br>
 💻 Adquirindo conhecimento em ReactJs, Typescript e outras tecnologias.<br>
-💪 Todos os dias se aperfeiçoando<br>
 🔎 À disposição para novas oportunidades. 
   
 ##
