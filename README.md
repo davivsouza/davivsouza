@@ -7,7 +7,7 @@ Atualmente estou fazendo parte da agência digital Crescere como sócio e desenv
 <div>
 
 </div>
-<div style="display: inline-block"><br>
+<div style="display: inline-block; background-color: #fff;"><br>
    <img align="center" alt="Davi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Davi-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
  <img  align="center" alt="Davi-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
