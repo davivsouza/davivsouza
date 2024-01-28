@@ -1,21 +1,18 @@
-📜 Experiências em projetos escolares e pessoais com PHP, MySQL, React.js e etc.<br>
-💻 Adquirindo conhecimento em ReactJs, Typescript e outras tecnologias.<br>
-🔎 À disposição para novas oportunidades. 
+![image](https://github.com/davivsouza/davivsouza/assets/81455819/d325a097-ae3d-4e92-938e-bd5371e82ece)## Bem vindo ao meu perfil!
+
+Olá! Sou Davi Vasconcelos, Técnico em Desenvolvimento de Sistemas. Minha jornada como programador começou com o interesse pelo design de interfaces e a busca por transformar essas interfaces funcionais para os usuários da web. Estou constantemente buscando novos desafios e oportunidades para expandir meu conhecimento e contribuir para projetos inovadores.
+Atualmente estou fazendo parte da agência digital Crescere como sócio e desenvolvedor e sempre estudando para me tornar um ótimo profissional.  
   
 ##
 <div>
- <a href="https://github.com/davivsouza/">
-  <img class="Davi_TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davivsouza&layout=compact&theme=tokyonight&langs_count=8" alt="">
- </a>
 
 </div>
 <div style="display: inline-block"><br>
-  <img align="center" alt="Davi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Davi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Davi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Davi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Davi-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
- <img  align="center" alt="Davi-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+ <img  align="center" alt="Davi-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+ <img  align="center" alt="Davi-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/wordpress/wordpress-original.svg">
+ <img  align="center" alt="Davi-Nodejs" height="30" width="40" src="[https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/wordpress/wordpress-original.svg](https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/nextjs/nextjs-original.svg)">
 
 </div>
 
