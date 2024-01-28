@@ -1,4 +1,4 @@
-![image](https://github.com/davivsouza/davivsouza/assets/81455819/d325a097-ae3d-4e92-938e-bd5371e82ece)## Bem vindo ao meu perfil!
+## Bem vindo ao meu perfil!
 
 Olá! Sou Davi Vasconcelos, Técnico em Desenvolvimento de Sistemas. Minha jornada como programador começou com o interesse pelo design de interfaces e a busca por transformar essas interfaces funcionais para os usuários da web. Estou constantemente buscando novos desafios e oportunidades para expandir meu conhecimento e contribuir para projetos inovadores.
 Atualmente estou fazendo parte da agência digital Crescere como sócio e desenvolvedor e sempre estudando para me tornar um ótimo profissional.  
