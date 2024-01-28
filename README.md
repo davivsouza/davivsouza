@@ -11,8 +11,8 @@ Atualmente estou fazendo parte da agência digital Crescere como sócio e desenv
    <img align="center" alt="Davi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Davi-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
  <img  align="center" alt="Davi-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
- <img  align="center" alt="Davi-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/wordpress/wordpress-original.svg">
- <img  align="center" alt="Davi-Nodejs" height="30" width="40" style="fill: #fff;"src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/nextjs/nextjs-line.svg">
+ <img  align="center" alt="Davi-wp" height="30" width="40" src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/wordpress/wordpress-original.svg">
+ <img  align="center" alt="Davi-tw" height="30" width="40" style="fill: #fff;"src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/tailwindcss/tailwindcss-plain.svg">
 
 </div>
 
