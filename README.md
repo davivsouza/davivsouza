@@ -1,21 +1,37 @@
 ## Bem vindo ao meu perfil!
 
-Olá! Sou Davi Vasconcelos, Técnico em Desenvolvimento de Sistemas. Minha jornada como programador começou com o interesse pelo design de interfaces e a busca por transformar essas interfaces funcionais para os usuários da web. Estou constantemente buscando novos desafios e oportunidades para expandir meu conhecimento e contribuir para projetos inovadores. <br>
+Olá! Sou Davi Vasconcelos entusiasta do Desenvolvimento Web e Técnico em Desenvolvimento de Sistemas. Minha jornada como programador começou com o interesse pelo design de interfaces e a busca por transformar essas interfaces funcionais para os usuários da web. Estou constantemente buscando novos desafios e oportunidades para expandir meu conhecimento e contribuir para projetos inovadores. <br>
 
-Atualmente procuro me tornar um desenvolvedor júnior e estou fazendo parte da Crescere, uma agência de software que oferece serviçoes para desenvolvimento de softwares e interfaces UI/UX.
+Atualmente procuro me tornar um desenvolvedor júnior e estou fazendo parte da Crescere, uma agência de software que oferece serviços para desenvolvimento de softwares e interfaces UI/UX.
   
 ##
-<div>
+<table>
+  <tr>
+    <td >
+      <img width="50" height="50" fill="#fff" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="Sua Imagem">
+    </td>
+    <td >
+      <img align="center" alt="Davi-Ts" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    </td>
+    <td >
+      <img align="center" alt="Davi-React" height="50" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    </td>
+    <td >
+     <img  align="center" alt="Davi-Nodejs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+    </td>
+    <td style="background-color:white">
+      <img  align="center" alt="Davi-wp" height="50" width="50" src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/javascript/javascript-original.svg">
+    </td>
+    <td style="background-color:white">
+      <img  align="center" alt="Davi-wp" height="80" width="50" src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/mysql/mysql-original-wordmark.svg">
+    </td>
+    <td style="background-color:white">
+     
+ <img  align="center" alt="Davi-tw" height="50" width="50" src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/tailwindcss/tailwindcss-plain.svg">
+    </td>
+  </tr>
+</table>
 
-</div>
-<div style="display: inline-block; background-color: #fff;"><br>
-   <img align="center" alt="Davi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Davi-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
- <img  align="center" alt="Davi-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
- <img  align="center" alt="Davi-wp" height="30" width="40" src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/wordpress/wordpress-original.svg">
- <img  align="center" alt="Davi-tw" height="30" width="40" style="fill: #fff;"src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/tailwindcss/tailwindcss-plain.svg">
-
-</div>
 
 ## 
 
