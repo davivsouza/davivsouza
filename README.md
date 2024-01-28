@@ -1,13 +1,13 @@
 # Davi Vasconcelos
 <div style="display: inline-block"> 
 
-<a href="https://www.linkedin.com/in/davi-vasconcelos-souza-236170234/" target="_blank">
+<a href="https://www.linkedin.com/in/davi-vasconcelos-souza-236170234" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-6e2dbd?style=flat-square&logo=linkedin&logoColor=white" target="_blank">
 </a> 
-<a href="mailto:davivasconcelossouza7@gmail.com/" target="_blank">
+<a href="mailto:davivasconcelossouza7@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-davivasconcelossouza7@gmail.com-6e2dbd?style=flat-square&logo=gmail&logoColor=white" target="_blank">
 </a> 
-<a href="https://www.workana.com/freelancer/1cc41fc99a51f3835fc5be25e88848ea/" target="_blank">
+<a href="https://www.workana.com/freelancer/1cc41fc99a51f3835fc5be25e88848ea" target="_blank">
   <img src="https://img.shields.io/badge/-Crescere-6e2dbd?style=flat-squaree&logo=workana&logoColor=white" target="_blank">
 </a> 
 </div>
