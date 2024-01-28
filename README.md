@@ -1,7 +1,8 @@
 ## Bem vindo ao meu perfil!
 
-Olá! Sou Davi Vasconcelos, Técnico em Desenvolvimento de Sistemas. Minha jornada como programador começou com o interesse pelo design de interfaces e a busca por transformar essas interfaces funcionais para os usuários da web. Estou constantemente buscando novos desafios e oportunidades para expandir meu conhecimento e contribuir para projetos inovadores.
-Atualmente estou fazendo parte da agência digital Crescere como sócio e desenvolvedor e sempre estudando para me tornar um ótimo profissional.  
+Olá! Sou Davi Vasconcelos, Técnico em Desenvolvimento de Sistemas. Minha jornada como programador começou com o interesse pelo design de interfaces e a busca por transformar essas interfaces funcionais para os usuários da web. Estou constantemente buscando novos desafios e oportunidades para expandir meu conhecimento e contribuir para projetos inovadores. <br>
+
+Atualmente procuro me tornar um desenvolvedor júnior e estou fazendo parte da Crescere, uma agência de software que oferece serviçoes para desenvolvimento de softwares e interfaces UI/UX.
   
 ##
 <div>
