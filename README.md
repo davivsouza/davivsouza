@@ -19,7 +19,7 @@ Técnico em Desenvolvimento de Sistemas em constante busca por novos desafios e 
 Desenvolvedor Front-End da Crescere, uma agência que oferece serviços para desenvolvimento de softwares e interfaces UI/UX.
 
 
-<i>"A beleza da programação reside na capacidade de transformar ideias abstratas em realidade tangível, por meio de esforço e dedicação."<i>
+
 
 
 
