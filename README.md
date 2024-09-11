@@ -16,7 +16,7 @@ Entusiasta das melhores tecnologias de desenvolvimento web e mobile.
 
 Técnico em Desenvolvimento de Sistemas em constante busca por novos desafios e oportunidades para expandir meu conhecimento e contribuir para projetos inovadores. 
 
-Desenvolvedor Front-End da Crescere, uma agência que oferece serviços para desenvolvimento de softwares e interfaces UI/UX.
+Desenvolvedor Fullstack na Buy2joy.
 
 
 
