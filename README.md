@@ -17,9 +17,9 @@ Sou Técnico em Desenvolvimento de Sistemas e **Desenvolvedor Fullstack**, apaix
 
 🎯 **Habilidades Técnicas:**  
 - **Frontend:** ReactJS, React Native, Next.js, Typescript, HTML5, CSS3, Sass, TailwindCSS.  
-- **Backend:** Node.js, Express, RESTful APIs, GraphQL, WebSocket, JWT.  
+- **Backend:** Node.js, Express, RESTful APIs, WebSocket, JWT.  
 - **Bancos de Dados:** MongoDB, PostgreSQL, MySQL, Firebase Realtime Database.  
-- **Machine Learning e IA:** Python, Pandas, NumPy, Scikit-learn, TensorFlow.  
+- **Machine Learning e IA:** Python, Pandas, NumPy, Scikit-learn, LangChain.  
 - **Outras Ferramentas:** Docker, Git, Figma, Vercel, Netlify.  
 
 🌟 **O que me move?**  
