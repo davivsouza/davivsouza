@@ -13,7 +13,7 @@
 
 💻 **Entusiasta das melhores tecnologias de desenvolvimento web e mobile**  
 
-Sou Técnico em Desenvolvimento de Sistemas e **Desenvolvedor Fullstack**, apaixonado por criar soluções robustas, escaláveis e centradas no usuário. Com experiência prática em projetos que utilizam tecnologias de ponta, busco constantemente novos desafios para expandir meu conhecimento e contribuir para inovações que façam a diferença.  
+**Desenvolvedor Fullstack**, apaixonado por criar soluções robustas, escaláveis e centradas no usuário. Com experiência prática em projetos que utilizam tecnologias de ponta, busco constantemente novos desafios para expandir meu conhecimento e contribuir para inovações que façam a diferença.  
 
 
 
