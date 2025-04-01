@@ -10,9 +10,6 @@
 
 </div>
 
-
-💻 **Entusiasta das melhores tecnologias de desenvolvimento web e mobile**  
-
 **Desenvolvedor Fullstack**, apaixonado por criar soluções robustas, escaláveis e centradas no usuário. Com experiência prática em projetos que utilizam tecnologias de ponta, busco constantemente novos desafios para expandir meu conhecimento e contribuir para inovações que façam a diferença.  
 
 
