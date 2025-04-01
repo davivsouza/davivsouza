@@ -15,17 +15,6 @@
 
 Sou Técnico em Desenvolvimento de Sistemas e **Desenvolvedor Fullstack**, apaixonado por criar soluções robustas, escaláveis e centradas no usuário. Com experiência prática em projetos que utilizam tecnologias de ponta, busco constantemente novos desafios para expandir meu conhecimento e contribuir para inovações que façam a diferença.  
 
-🎯 **Habilidades Técnicas:**  
-- **Frontend:** ReactJS, React Native, Next.js, Typescript, HTML5, CSS3, Sass, TailwindCSS.  
-- **Backend:** Node.js, Express, RESTful APIs, WebSocket, JWT.  
-- **Bancos de Dados:** MongoDB, PostgreSQL, MySQL, Firebase Realtime Database.  
-- **Machine Learning e IA:** Python, Pandas, NumPy, Scikit-learn, LangChain.  
-- **Outras Ferramentas:** Docker, Git, Figma, Vercel, Netlify.  
-
-🌟 **O que me move?**  
-Minha curiosidade e paixão pela tecnologia me levam a explorar constantemente novas ferramentas e metodologias. Acredito no poder da colaboração e da inovação para transformar ideias em produtos de impacto real.  
-
-
 
 
 
