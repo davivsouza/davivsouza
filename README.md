@@ -1,4 +1,3 @@
-# Davi Vasconcelos
 <div style="display: inline-block"> 
 
 <a href="https://www.linkedin.com/in/davi-dev/" target="_blank">
