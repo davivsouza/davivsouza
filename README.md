@@ -3,9 +3,7 @@
 <a href="https://www.linkedin.com/in/davi-dev/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-6e2dbd?style=flat-square&logo=linkedin&logoColor=white" target="_blank">
 </a> 
-<a href="mailto:davivasconcelossouza7@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-davivasconcelossouza7@gmail.com-6e2dbd?style=flat-square&logo=gmail&logoColor=white" target="_blank">
-</a> 
+
 
 </div>
 
